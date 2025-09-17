@@ -4,7 +4,7 @@ Este repositorio contiene el código en R utilizado en el desarrollo de mi tesis
 
 ## Contenido
 
-- `/data`: datos crudos y procesados utilizados para el análisis.
+- `/bases`: datos crudos y procesados utilizados para el análisis.
 - `/scripts`: scripts en R organizados por etapa (preprocesamiento, modelos, visualización).
 - `/figures`: gráficos y tablas generadas a partir de los modelos.
 - `/output`: resultados del modelo en formato .csv o .rds.
