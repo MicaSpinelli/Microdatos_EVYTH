@@ -1,0 +1,524 @@
+anio,categoria,n,part,variable,grupo
+2012,Auto,19330345,0.6590508950044629,medio_transporte,viaje
+2012,Avión,957841,0.03265673573451326,medio_transporte,viaje
+2012,Otros,931737,0.03176674310565969,medio_transporte,viaje
+2012,Ómnibus,8110657,0.27652562615536413,medio_transporte,viaje
+2013,Auto,20741159,0.6858208640112731,medio_transporte,viaje
+2013,Avión,1032258,0.03413232951169935,medio_transporte,viaje
+2013,Otros,517679,0.017117416585085327,medio_transporte,viaje
+2013,Ómnibus,7951727,0.2629293898919423,medio_transporte,viaje
+2014,Auto,19557317,0.6761724220371866,medio_transporte,viaje
+2014,Avión,1171565,0.0405055531709179,medio_transporte,viaje
+2014,Otros,317779,0.010986854490447494,medio_transporte,viaje
+2014,Ómnibus,7876904,0.272335170301448,medio_transporte,viaje
+2015,Auto,18499221,0.680799368662641,medio_transporte,viaje
+2015,Avión,1373251,0.05053771798365674,medio_transporte,viaje
+2015,Otros,534244,0.01966098885524985,medio_transporte,viaje
+2015,Ómnibus,6766078,0.24900192449845238,medio_transporte,viaje
+2016,Auto,17516686,0.6851848657368372,medio_transporte,viaje
+2016,Avión,1262016,0.04936517464078196,medio_transporte,viaje
+2016,Otros,416163,0.016278683609424718,medio_transporte,viaje
+2016,Ómnibus,6370040,0.24917127601295605,medio_transporte,viaje
+2017,Auto,20660915,0.6801973077428936,medio_transporte,viaje
+2017,Avión,1580599,0.05203637808011454,medio_transporte,viaje
+2017,Otros,743030,0.024461985617394107,medio_transporte,viaje
+2017,Ómnibus,7390341,0.24330432855959783,medio_transporte,viaje
+2018,Auto,19415765,0.7054529381692954,medio_transporte,viaje
+2018,Avión,1652048,0.060025557354897334,medio_transporte,viaje
+2018,Otros,360487,0.01309794454773401,medio_transporte,viaje
+2018,Ómnibus,6094110,0.22142355992807317,medio_transporte,viaje
+2019,Auto,18944304,0.7080205209039854,medio_transporte,viaje
+2019,Avión,1696687,0.06341163093408025,medio_transporte,viaje
+2019,Otros,455369,0.017018867337830246,medio_transporte,viaje
+2019,Ómnibus,5660356,0.21154898082410412,medio_transporte,viaje
+2020,Auto,9641698,0.7839582578344008,medio_transporte,viaje
+2020,Avión,503692,0.04095476780180472,medio_transporte,viaje
+2020,Otros,197577,0.01606481770204246,medio_transporte,viaje
+2020,Ómnibus,1955772,0.15902215666175207,medio_transporte,viaje
+2021,Auto,14546591,0.8118663516668368,medio_transporte,viaje
+2021,Avión,951259,0.05309114512260939,medio_transporte,viaje
+2021,Otros,558867,0.031191178218799864,medio_transporte,viaje
+2021,Ómnibus,1860753,0.10385132499175385,medio_transporte,viaje
+2022,Auto,23416424,0.7542185275116164,medio_transporte,viaje
+2022,Avión,2238041,0.07208496000630264,medio_transporte,viaje
+2022,Otros,904134,0.029121210572254235,medio_transporte,viaje
+2022,Ómnibus,4488668,0.1445753019098267,medio_transporte,viaje
+2023,Auto,20067666.88,0.7466931184676238,medio_transporte,viaje
+2023,Avión,1557323.32,0.0579460787956409,medio_transporte,viaje
+2023,Otros,527145.78,0.01961444390665747,medio_transporte,viaje
+2023,Ómnibus,4723251.49,0.17574635883007794,medio_transporte,viaje
+2024,Auto,11007740,0.7802173929222376,medio_transporte,viaje
+2024,Avión,553316,0.03921847418109083,medio_transporte,viaje
+2024,Otros,404882,0.028697623534089778,medio_transporte,viaje
+2024,Ómnibus,2142617,0.15186650936258178,medio_transporte,viaje
+2012,Otros,722313,0.02462661836213263,motivo,viaje
+2012,"Trabajo, negocios",1174055,0.040028359480105746,motivo,viaje
+2012,"Vacaciones, ocio",17775856,0.6060519771514917,motivo,viaje
+2012,Visita a familiares y amigos,9658356,0.3292930450062699,motivo,viaje
+2013,Otros,906250,0.029965787254714944,motivo,viaje
+2013,"Trabajo, negocios",1040389,0.03440118668816069,motivo,viaje
+2013,"Vacaciones, ocio",16249679,0.5373069504787963,motivo,viaje
+2013,Visita a familiares y amigos,12046505,0.3983260755783281,motivo,viaje
+2014,Otros,812101,0.028077486298801687,motivo,viaje
+2014,"Trabajo, negocios",712981,0.024650522852214102,motivo,viaje
+2014,"Vacaciones, ocio",15326390,0.5298928399732191,motivo,viaje
+2014,Visita a familiares y amigos,12072093,0.41737915087576516,motivo,viaje
+2015,Otros,793856,0.02921510390135074,motivo,viaje
+2015,"Trabajo, negocios",593075,0.02182605881456283,motivo,viaje
+2015,"Vacaciones, ocio",14594920,0.5371151748325917,motivo,viaje
+2015,Visita a familiares y amigos,11190943,0.4118436624514947,motivo,viaje
+2016,Otros,620755,0.024281529698623953,motivo,viaje
+2016,"Trabajo, negocios",446285,0.017456939503589,motivo,viaje
+2016,"Vacaciones, ocio",14469102,0.5659751913805273,motivo,viaje
+2016,Visita a familiares y amigos,10028763,0.3922863394172597,motivo,viaje
+2017,Otros,848889,0.027947068770795346,motivo,viaje
+2017,"Trabajo, negocios",621174,0.020450250264321988,motivo,viaje
+2017,"Vacaciones, ocio",17433355,0.5739397861094783,motivo,viaje
+2017,Visita a familiares y amigos,11471467,0.3776628948554044,motivo,viaje
+2018,Otros,629834,0.02288440583509947,motivo,viaje
+2018,"Trabajo, negocios",511728,0.01859313919093568,motivo,viaje
+2018,"Vacaciones, ocio",16248123,0.5903597468390305,motivo,viaje
+2018,Visita a familiares y amigos,10132725,0.3681627081349344,motivo,viaje
+2019,Otros,717907,0.026830908546474838,motivo,viaje
+2019,"Trabajo, negocios",421262,0.015744159335547757,motivo,viaje
+2019,"Vacaciones, ocio",15310227,0.57220127462578,motivo,viaje
+2019,Visita a familiares y amigos,10307320,0.38522365749219745,motivo,viaje
+2020,Otros,662009,0.0538273883200546,motivo,viaje
+2020,"Trabajo, negocios",250426,0.020361924909537473,motivo,viaje
+2020,"Vacaciones, ocio",6413229,0.521454191360594,motivo,viaje
+2020,Visita a familiares y amigos,4973075,0.40435649540981394,motivo,viaje
+2021,Otros,822192,0.04588772856882138,motivo,viaje
+2021,"Trabajo, negocios",296159,0.016529063534081543,motivo,viaje
+2021,"Vacaciones, ocio",10579042,0.5904316848305035,motivo,viaje
+2021,Visita a familiares y amigos,6220077,0.3471515230665937,motivo,viaje
+2022,Otros,715326,0.023039902352757814,motivo,viaje
+2022,"Trabajo, negocios",546101,0.017589342082831316,motivo,viaje
+2022,"Vacaciones, ocio",21524203,0.6932720680374218,motivo,viaje
+2022,Visita a familiares y amigos,8261637,0.26609868752698906,motivo,viaje
+2023,Otros,752323.79,0.027993039759511975,motivo,viaje
+2023,"Trabajo, negocios",498044.47,0.018531620076396985,motivo,viaje
+2023,"Vacaciones, ocio",19128968.42,0.7117653072482382,motivo,viaje
+2023,Visita a familiares y amigos,6496050.79,0.24171003291585286,motivo,viaje
+2024,Otros,866867,0.06144264951300824,motivo,viaje
+2024,"Trabajo, negocios",256859,0.018205904148227797,motivo,viaje
+2024,"Vacaciones, ocio",9580770,0.679075213584949,motivo,viaje
+2024,Visita a familiares y amigos,3404059,0.24127623275381496,motivo,viaje
+2012,Camping,2127678,0.07254128626164229,tipo_alojamiento,viaje
+2012,Hotel o similar hasta 3 estrellas,5978063,0.2038167332524621,tipo_alojamiento,viaje
+2012,Hotel similar 4 o 5 estrellas,1046922,0.03569387308399629,tipo_alojamiento,viaje
+2012,Resto,233194,0.007950541721302476,tipo_alojamiento,viaje
+2012,Segunda vivienda del hogar,4844504,0.1651690488220826,tipo_alojamiento,viaje
+2012,Vivienda alquilada por temporada,2820944,0.0961775730312868,tipo_alojamiento,viaje
+2012,Vivienda de familiares y amigos,12279275,0.4186509438272274,tipo_alojamiento,viaje
+2013,Camping,1585214,0.0524162046644918,tipo_alojamiento,viaje
+2013,Hotel o similar hasta 3 estrellas,6269774,0.20731444283491657,tipo_alojamiento,viaje
+2013,Hotel similar 4 o 5 estrellas,986485,0.032618813395826174,tipo_alojamiento,viaje
+2013,Resto,166809,0.005515655730948133,tipo_alojamiento,viaje
+2013,Segunda vivienda del hogar,4460449,0.14748785191117905,tipo_alojamiento,viaje
+2013,Vivienda alquilada por temporada,2557814,0.0845759008674554,tipo_alojamiento,viaje
+2013,Vivienda de familiares y amigos,14216278,0.47007113059518285,tipo_alojamiento,viaje
+2014,Camping,1274388,0.04406054371236741,tipo_alojamiento,viaje
+2014,Hotel o similar hasta 3 estrellas,6434250,0.22245701731442857,tipo_alojamiento,viaje
+2014,Hotel similar 4 o 5 estrellas,687096,0.02375557784802807,tipo_alojamiento,viaje
+2014,Resto,80779,0.0027928438282072074,tipo_alojamiento,viaje
+2014,Segunda vivienda del hogar,4235932,0.14645262435664483,tipo_alojamiento,viaje
+2014,Vivienda alquilada por temporada,2377717,0.08220691329025312,tipo_alojamiento,viaje
+2014,Vivienda de familiares y amigos,13833403,0.4782744796500708,tipo_alojamiento,viaje
+2015,Camping,1603975,0.05902871084953575,tipo_alojamiento,viaje
+2015,Hotel o similar hasta 3 estrellas,6407104,0.2357911372676656,tipo_alojamiento,viaje
+2015,Hotel similar 4 o 5 estrellas,771349,0.0283868121916355,tipo_alojamiento,viaje
+2015,Resto,166175,0.006115491840846399,tipo_alojamiento,viaje
+2015,Segunda vivienda del hogar,2396966,0.08821198143996528,tipo_alojamiento,viaje
+2015,Vivienda alquilada por temporada,3016761,0.11102137674911162,tipo_alojamiento,viaje
+2015,Vivienda de familiares y amigos,12810464,0.47144448966123986,tipo_alojamiento,viaje
+2016,Camping,1072768,0.041962526361822974,tipo_alojamiento,viaje
+2016,Hotel o similar hasta 3 estrellas,6565256,0.25680736932134113,tipo_alojamiento,viaje
+2016,Hotel similar 4 o 5 estrellas,760099,0.02973212691382972,tipo_alojamiento,viaje
+2016,Resto,44948,0.001758191552051533,tipo_alojamiento,viaje
+2016,Segunda vivienda del hogar,3074718,0.12027105127126426,tipo_alojamiento,viaje
+2016,Vivienda alquilada por temporada,2764028,0.10811806263312929,tipo_alojamiento,viaje
+2016,Vivienda de familiares y amigos,11283088,0.44135067194656113,tipo_alojamiento,viaje
+2017,Camping,985018,0.03242869890700821,tipo_alojamiento,viaje
+2017,Hotel o similar hasta 3 estrellas,7986654,0.2629361065893747,tipo_alojamiento,viaje
+2017,Hotel similar 4 o 5 estrellas,752894,0.02478672758761062,tipo_alojamiento,viaje
+2017,Resto,133838,0.004406205982343637,tipo_alojamiento,viaje
+2017,Segunda vivienda del hogar,4662899,0.15351165938570632,tipo_alojamiento,viaje
+2017,Vivienda alquilada por temporada,3383345,0.11138626533071648,tipo_alojamiento,viaje
+2017,Vivienda de familiares y amigos,12470237,0.41054433621724,tipo_alojamiento,viaje
+2018,Camping,925466,0.03362590703357737,tipo_alojamiento,viaje
+2018,Hotel o similar hasta 3 estrellas,6395672,0.23238052190923686,tipo_alojamiento,viaje
+2018,Hotel similar 4 o 5 estrellas,531048,0.01929511260096772,tipo_alojamiento,viaje
+2018,Resto,112203,0.0040767868802187015,tipo_alojamiento,viaje
+2018,Segunda vivienda del hogar,5596566,0.2033457825822666,tipo_alojamiento,viaje
+2018,Vivienda alquilada por temporada,2802826,0.10183795677776765,tipo_alojamiento,viaje
+2018,Vivienda de familiares y amigos,11158629,0.4054379322159651,tipo_alojamiento,viaje
+2019,Camping,840862,0.03142620342496441,tipo_alojamiento,viaje
+2019,Hotel o similar hasta 3 estrellas,5493906,0.20532811276241822,tipo_alojamiento,viaje
+2019,Hotel similar 4 o 5 estrellas,846067,0.03162073402431001,tipo_alojamiento,viaje
+2019,Resto,72999,0.002728249610303447,tipo_alojamiento,viaje
+2019,Segunda vivienda del hogar,4943449,0.184755446071932,tipo_alojamiento,viaje
+2019,Vivienda alquilada por temporada,3221620,0.12040416320149304,tipo_alojamiento,viaje
+2019,Vivienda de familiares y amigos,11337813,0.4237370909045789,tipo_alojamiento,viaje
+2020,Camping,362988,0.029514245322223683,tipo_alojamiento,viaje
+2020,Hotel o similar hasta 3 estrellas,1990026,0.161807320246409,tipo_alojamiento,viaje
+2020,Hotel similar 4 o 5 estrellas,285896,0.023245960419194196,tipo_alojamiento,viaje
+2020,Resto,85607,0.00696063230547457,tipo_alojamiento,viaje
+2020,Segunda vivienda del hogar,2626373,0.2135481531887131,tipo_alojamiento,viaje
+2020,Vivienda alquilada por temporada,1929255,0.15686608196173607,tipo_alojamiento,viaje
+2020,Vivienda de familiares y amigos,5018594,0.4080576065562494,tipo_alojamiento,viaje
+2021,Camping,598298,0.033391879545493865,tipo_alojamiento,viaje
+2021,Hotel o similar hasta 3 estrellas,3981563,0.22221680851146952,tipo_alojamiento,viaje
+2021,Hotel similar 4 o 5 estrellas,527873,0.029461358104687772,tipo_alojamiento,viaje
+2021,Resto,257491,0.014370946344545296,tipo_alojamiento,viaje
+2021,Segunda vivienda del hogar,3666591,0.20463776414862142,tipo_alojamiento,viaje
+2021,Vivienda alquilada por temporada,1717352,0.09584790709849103,tipo_alojamiento,viaje
+2021,Vivienda de familiares y amigos,7168302,0.40007333624669106,tipo_alojamiento,viaje
+2022,Camping,864757,0.02785291858378388,tipo_alojamiento,viaje
+2022,Hotel o similar hasta 3 estrellas,6387635,0.2057390429888724,tipo_alojamiento,viaje
+2022,Hotel similar 4 o 5 estrellas,1017715,0.03277953579617813,tipo_alojamiento,viaje
+2022,Resto,125518,0.004042803509887037,tipo_alojamiento,viaje
+2022,Segunda vivienda del hogar,7664321,0.2468597638561874,tipo_alojamiento,viaje
+2022,Vivienda alquilada por temporada,5549911,0.17875682906324733,tipo_alojamiento,viaje
+2022,Vivienda de familiares y amigos,9437410,0.3039691062018438,tipo_alojamiento,viaje
+2023,Camping,796590.88,0.029640163547007645,tipo_alojamiento,viaje
+2023,Hotel o similar hasta 3 estrellas,5725747.38,0.21304799368535393,tipo_alojamiento,viaje
+2023,Hotel similar 4 o 5 estrellas,1069624.02,0.03979938972764511,tipo_alojamiento,viaje
+2023,Resto,201395.98,0.0074936958667037225,tipo_alojamiento,viaje
+2023,Segunda vivienda del hogar,5843406.01,0.21742592610144795,tipo_alojamiento,viaje
+2023,Vivienda alquilada por temporada,4460737.12,0.16597852309959646,tipo_alojamiento,viaje
+2023,Vivienda de familiares y amigos,8777886.08,0.3266143079722452,tipo_alojamiento,viaje
+2024,Camping,460237,0.0326211295203513,tipo_alojamiento,viaje
+2024,Hotel o similar hasta 3 estrellas,2639596,0.18709187439819316,tipo_alojamiento,viaje
+2024,Hotel similar 4 o 5 estrellas,458446,0.03249418526560658,tipo_alojamiento,viaje
+2024,Resto,216856,0.015370532276338719,tipo_alojamiento,viaje
+2024,Segunda vivienda del hogar,2662469,0.1887130893277164,tipo_alojamiento,viaje
+2024,Vivienda alquilada por temporada,3529337,0.2501558097197055,tipo_alojamiento,viaje
+2024,Vivienda de familiares y amigos,4141614,0.2935533794920883,tipo_alojamiento,viaje
+2012,Quintil 5,11010718,0.37540062283118847,quintil,visitante
+2012,Quintiles 1 y 2,6728357,0.22939733888658184,quintil,visitante
+2012,Quintiles 3 y 4,11591505,0.39520203828222966,quintil,visitante
+2013,Quintil 5,11408657,0.3772351873368435,quintil,visitante
+2013,Quintiles 1 y 2,6283839,0.20777951185310975,quintil,visitante
+2013,Quintiles 3 y 4,12550327,0.41498530081004675,quintil,visitante
+2014,Quintil 5,11256296,0.3891738794992941,quintil,visitante
+2014,Quintiles 1 y 2,5587881,0.19319475313641316,quintil,visitante
+2014,Quintiles 3 y 4,12079388,0.41763136736429274,quintil,visitante
+2015,Quintil 5,10260798,0.37761291680200426,quintil,visitante
+2015,Quintiles 1 y 2,5924866,0.21804404802833305,quintil,visitante
+2015,Quintiles 3 y 4,10987130,0.4043430351696627,quintil,visitante
+2016,Quintil 5,9823939,0.3842744183872383,quintil,visitante
+2016,Quintiles 1 y 2,5382832,0.2105555252405593,quintil,visitante
+2016,Quintiles 3 y 4,10358134,0.40517005637220244,quintil,visitante
+2017,Quintil 5,10916518,0.35939289975912664,quintil,visitante
+2017,Quintiles 1 y 2,6919787,0.2278127801965341,quintil,visitante
+2017,Quintiles 3 y 4,12538580,0.41279432004433925,quintil,visitante
+2018,Quintil 5,12375645,0.4496570249480333,quintil,visitante
+2018,Quintiles 1 y 2,4925418,0.17896027273774354,quintil,visitante
+2018,Quintiles 3 y 4,10221347,0.3713827023142232,quintil,visitante
+2019,Quintil 5,11130858,0.41600239730466176,quintil,visitante
+2019,Quintiles 1 y 2,4737973,0.17707602831378857,quintil,visitante
+2019,Quintiles 3 y 4,10887885,0.4069215743815497,quintil,visitante
+2020,Quintil 5,4870004,0.395975880128849,quintil,visitante
+2020,Quintiles 1 y 2,2427004,0.1973376294919341,quintil,visitante
+2020,Quintiles 3 y 4,5001731,0.40668649037921695,quintil,visitante
+2021,Quintil 5,8065251,0.45013336146230465,quintil,visitante
+2021,Quintiles 1 y 2,3253745,0.1815962298248581,quintil,visitante
+2021,Quintiles 3 y 4,6598474,0.3682704087128372,quintil,visitante
+2022,Quintil 5,13391757,0.43133448750899717,quintil,visitante
+2022,Quintiles 1 y 2,5891715,0.18976597843539658,quintil,visitante
+2022,Quintiles 3 y 4,11763795,0.3788995340556062,quintil,visitante
+2023,Quintil 5,11269545.62,0.4193258844204489,quintil,visitante
+2023,Quintiles 1 y 2,4205897.31,0.15649624827529973,quintil,visitante
+2023,Quintiles 3 y 4,11399944.54,0.42417786730425133,quintil,visitante
+2024,Quintil 5,5832632,0.41341101197110547,quintil,visitante
+2024,Quintiles 1 y 2,2461506,0.1744690366944028,quintil,visitante
+2024,Quintiles 3 y 4,5814417,0.41211995133449175,quintil,visitante
+2012,14 a 29 años,6052673,0.2063604947464387,edad_tramos,visitante
+2012,30 a 44 años,6907771,0.23551429941037647,edad_tramos,visitante
+2012,45 a 59 años,7632065,0.2602084582030086,edad_tramos,visitante
+2012,60 años o más,8738071,0.2979167476401762,edad_tramos,visitante
+2013,14 a 29 años,6270675,0.20734423502726582,edad_tramos,visitante
+2013,30 a 44 años,6990177,0.23113506963288447,edad_tramos,visitante
+2013,45 a 59 años,7254390,0.23987145644439342,edad_tramos,visitante
+2013,60 años o más,9727581,0.32164923889545627,edad_tramos,visitante
+2014,14 a 29 años,5856895,0.20249561214186426,edad_tramos,visitante
+2014,30 a 44 años,6661023,0.23029744085834508,edad_tramos,visitante
+2014,45 a 59 años,6704231,0.23179130926633698,edad_tramos,visitante
+2014,60 años o más,9701416,0.3354156377334537,edad_tramos,visitante
+2015,14 a 29 años,5929504,0.21821473345729556,edad_tramos,visitante
+2015,30 a 44 años,6329104,0.23292061905742928,edad_tramos,visitante
+2015,45 a 59 años,6366968,0.23431407164092144,edad_tramos,visitante
+2015,60 años o más,8547218,0.31455057584435375,edad_tramos,visitante
+2016,14 a 29 años,5750935,0.2249542879193175,edad_tramos,visitante
+2016,30 a 44 años,5339686,0.20886782094437667,edad_tramos,visitante
+2016,45 a 59 años,5853376,0.228961382801931,edad_tramos,visitante
+2016,60 años o más,8620908,0.3372165083343748,edad_tramos,visitante
+2017,14 a 29 años,5690775,0.1873513265976151,edad_tramos,visitante
+2017,30 a 44 años,6594596,0.21710686312063404,edad_tramos,visitante
+2017,45 a 59 años,6874269,0.22631423954362295,edad_tramos,visitante
+2017,60 años o más,11215245,0.3692275707381279,edad_tramos,visitante
+2018,14 a 29 años,5525490,0.20076330524834127,edad_tramos,visitante
+2018,30 a 44 años,5699697,0.2070929471656007,edad_tramos,visitante
+2018,45 a 59 años,6107134,0.2218967743013784,edad_tramos,visitante
+2018,60 años o más,10190089,0.37024697328467965,edad_tramos,visitante
+2019,14 a 29 años,5507017,0.20581812057952104,edad_tramos,visitante
+2019,30 a 44 años,5029620,0.1879759833007907,edad_tramos,visitante
+2019,45 a 59 años,5608883,0.2096252395099608,edad_tramos,visitante
+2019,60 años o más,10576126,0.39526995764353146,edad_tramos,visitante
+2019,Ns./ Nr.,35070,0.001310698966196001,edad_tramos,visitante
+2020,14 a 29 años,2675208,0.21751888547273018,edad_tramos,visitante
+2020,30 a 44 años,2316375,0.18834247966397205,edad_tramos,visitante
+2020,45 a 59 años,2681118,0.21799942254242488,edad_tramos,visitante
+2020,60 años o más,4626038,0.3761392123208729,edad_tramos,visitante
+2021,14 a 29 años,4272595,0.23845972673597332,edad_tramos,visitante
+2021,30 a 44 años,3472322,0.1937953293629067,edad_tramos,visitante
+2021,45 a 59 años,3657793,0.20414673500220734,edad_tramos,visitante
+2021,60 años o más,6514760,0.36359820889891264,edad_tramos,visitante
+2022,14 a 29 años,6681941,0.21521833145571234,edad_tramos,visitante
+2022,30 a 44 años,6054637,0.19501352566717065,edad_tramos,visitante
+2022,45 a 59 años,5472691,0.17626965362200803,edad_tramos,visitante
+2022,60 años o más,12837998,0.413498489255109,edad_tramos,visitante
+2023,14 a 29 años,4737892.39,0.17629112865028398,edad_tramos,visitante
+2023,30 a 44 años,6658878.82,0.24776866296097352,edad_tramos,visitante
+2023,45 a 59 años,4262461.8,0.15860094314018833,edad_tramos,visitante
+2023,60 años o más,11216154.46,0.41733926524855425,edad_tramos,visitante
+2024,14 a 29 años,2420709,0.17157738691170002,edad_tramos,visitante
+2024,30 a 44 años,4025120,0.285296403494192,edad_tramos,visitante
+2024,45 a 59 años,2218056,0.15721354880070992,edad_tramos,visitante
+2024,60 años o más,5444670,0.38591266079339803,edad_tramos,visitante
+2012,Mujer,15028296,0.5123763662361944,sexo,visitante
+2012,Varón,14302284,0.4876236337638056,sexo,visitante
+2013,Mujer,15208296,0.5028728964885322,sexo,visitante
+2013,Varón,15034527,0.4971271035114678,sexo,visitante
+2014,Mujer,14654240,0.5066540034051819,sexo,visitante
+2014,Varón,14269325,0.4933459965948181,sexo,visitante
+2015,Mujer,14030281,0.5163356039132376,sexo,visitante
+2015,Varón,13142513,0.48366439608676237,sexo,visitante
+2016,Mujer,13261431,0.51873578251122,sexo,visitante
+2016,Varón,12303474,0.48126421748878,sexo,visitante
+2017,Mujer,15844440,0.5216296292150571,sexo,visitante
+2017,Varón,14530445,0.4783703707849429,sexo,visitante
+2018,Mujer,14369841,0.5221141971215457,sexo,visitante
+2018,Varón,13152569,0.47788580287845434,sexo,visitante
+2019,Mujer,13977192,0.5223806987374684,sexo,visitante
+2019,Varón,12779524,0.4776193012625316,sexo,visitante
+2020,Mujer,6397175,0.5201488542849799,sexo,visitante
+2020,Varón,5901564,0.4798511457150201,sexo,visitante
+2021,Mujer,9106265,0.508233863374684,sexo,visitante
+2021,Varón,8811205,0.491766136625316,sexo,visitante
+2022,Mujer,15555282,0.5010193650861443,sexo,visitante
+2022,Varón,15491985,0.4989806349138557,sexo,visitante
+2023,Mujer,13699047.32,0.5097246443531926,sexo,visitante
+2023,Varón,13176340.15,0.4902753556468074,sexo,visitante
+2024,Mujer,6991657,0.49556152277820087,sexo,visitante
+2024,Varón,7116898,0.5044384772217991,sexo,visitante
+2012,Desocupado,881413,0.03005099114985111,ocupacion,visitante
+2012,Inactivo,7630242,0.2601463046417766,ocupacion,visitante
+2012,Menor de 14 años,6052673,0.2063604947464387,ocupacion,visitante
+2012,Ns./ Nr.,233118,0.00794795056899659,ocupacion,visitante
+2012,Ocupado,14533134,0.495494258892937,ocupacion,visitante
+2013,Desocupado,682089,0.022553747710655186,ocupacion,visitante
+2013,Inactivo,8449162,0.27937742452151376,ocupacion,visitante
+2013,Menor de 14 años,6270675,0.20734423502726582,ocupacion,visitante
+2013,Ns./ Nr.,290172,0.009594739221269126,ocupacion,visitante
+2013,Ocupado,14550725,0.48112985351929616,ocupacion,visitante
+2014,Desocupado,522353,0.01805977236900085,ocupacion,visitante
+2014,Inactivo,8500624,0.2938995936358468,ocupacion,visitante
+2014,Menor de 14 años,5856895,0.20249561214186426,ocupacion,visitante
+2014,Ns./ Nr.,179044,0.006190246603418354,ocupacion,visitante
+2014,Ocupado,13864649,0.4793547752498698,ocupacion,visitante
+2015,Desocupado,548011,0.02016763531935656,ocupacion,visitante
+2015,Inactivo,7755224,0.2854039963648935,ocupacion,visitante
+2015,Menor de 14 años,5929504,0.21821473345729556,ocupacion,visitante
+2015,Ns./ Nr.,211545,0.007785176599800521,ocupacion,visitante
+2015,Ocupado,12728510,0.46842845825865387,ocupacion,visitante
+2016,Desocupado,650631,0.025450163026226776,ocupacion,visitante
+2016,Inactivo,7271964,0.28445104724621506,ocupacion,visitante
+2016,Menor de 14 años,5750935,0.2249542879193175,ocupacion,visitante
+2016,Ns./ Nr.,326474,0.012770397543038004,ocupacion,visitante
+2016,Ocupado,11564901,0.45237410426520264,ocupacion,visitante
+2017,Desocupado,574482,0.018913059259319007,ocupacion,visitante
+2017,Inactivo,9348544,0.3077721611127087,ocupacion,visitante
+2017,Menor de 14 años,5690775,0.1873513265976151,ocupacion,visitante
+2017,Ns./ Nr.,300378,0.009889025094251385,ocupacion,visitante
+2017,Ocupado,14460706,0.47607442793610577,ocupacion,visitante
+2018,Desocupado,539294,0.01959472299119154,ocupacion,visitante
+2018,Inactivo,8611929,0.3129060645488531,ocupacion,visitante
+2018,Menor de 14 años,5525490,0.20076330524834127,ocupacion,visitante
+2018,Ns./ Nr.,285710,0.010380994978274069,ocupacion,visitante
+2018,Ocupado,12559987,0.45635491223334,ocupacion,visitante
+2019,Desocupado,839936,0.0313915952914401,ocupacion,visitante
+2019,Inactivo,7785243,0.29096407047860434,ocupacion,visitante
+2019,Menor de 14 años,5507017,0.20581812057952104,ocupacion,visitante
+2019,Ns./ Nr.,260079,0.009720139048454228,ocupacion,visitante
+2019,Ocupado,12364441,0.4621060746019803,ocupacion,visitante
+2020,Desocupado,373227,0.030346769697283598,ocupacion,visitante
+2020,Inactivo,3429936,0.27888517676486996,ocupacion,visitante
+2020,Menor de 14 años,2675208,0.21751888547273018,ocupacion,visitante
+2020,Ns./ Nr.,39129,0.003181545685293427,ocupacion,visitante
+2020,Ocupado,5781239,0.47006762237982286,ocupacion,visitante
+2021,Desocupado,451592,0.025204004806482164,ocupacion,visitante
+2021,Inactivo,4452165,0.2484817890025768,ocupacion,visitante
+2021,Menor de 14 años,4272595,0.23845972673597332,ocupacion,visitante
+2021,Ns./ Nr.,397515,0.022185888967583035,ocupacion,visitante
+2021,Ocupado,8343603,0.4656685904873847,ocupacion,visitante
+2022,Desocupado,783699,0.025242125176428574,ocupacion,visitante
+2022,Inactivo,8308939,0.2676222354772805,ocupacion,visitante
+2022,Menor de 14 años,6681941,0.21521833145571234,ocupacion,visitante
+2022,Ns./ Nr.,442878,0.01426463720623139,ocupacion,visitante
+2022,Ocupado,14829810,0.4776526706843472,ocupacion,visitante
+2023,Desocupado,913517.71,0.033990866588239,ocupacion,visitante
+2023,Inactivo,8848709.2,0.32924954886241126,ocupacion,visitante
+2023,Menor de 14 años,4737892.39,0.17629112865028398,ocupacion,visitante
+2023,Ns./ Nr.,251242.36,0.00934841814952259,ocupacion,visitante
+2023,Ocupado,12124025.81,0.45112003774954323,ocupacion,visitante
+2024,Desocupado,425273,0.030142916833084607,ocupacion,visitante
+2024,Inactivo,5392915,0.3822443191382817,ocupacion,visitante
+2024,Menor de 14 años,2420709,0.17157738691170002,ocupacion,visitante
+2024,Ocupado,5869658,0.41603537711693367,ocupacion,visitante
+2012,Menor de 14 años,6052673,0.2063604947464387,educacion,visitante
+2012,Ns./ Nr.,4522,1.5417356220027016e-4,educacion,visitante
+2012,Post grado / maestría / doctorado incompleto o completo,442009,0.015069903152273157,educacion,visitante
+2012,Primario completo,2597804,0.08856981348476572,educacion,visitante
+2012,Primario incompleto,832767,0.028392449109427773,educacion,visitante
+2012,Secundario completo,4878418,0.16632531644447535,educacion,visitante
+2012,Secundario incompleto,4271088,0.14561894105060316,educacion,visitante
+2012,Sin instrucción / nunca asistió,87569,0.0029855870562395972,educacion,visitante
+2012,Terciario completo,2206118,0.07521562819419186,educacion,visitante
+2012,Terciario incompleto,1075106,0.03665478146016887,educacion,visitante
+2012,Universitario completo,3627282,0.1236689489263424,educacion,visitante
+2012,Universitario incompleto,3255224,0.11098396281287312,educacion,visitante
+2013,Menor de 14 años,6270675,0.20734423502726582,educacion,visitante
+2013,Post grado / maestría / doctorado incompleto o completo,425722,0.014076794352167455,educacion,visitante
+2013,Primario completo,3015156,0.09969823253603012,educacion,visitante
+2013,Primario incompleto,796935,0.02635121066575035,educacion,visitante
+2013,Secundario completo,5315113,0.175747912157539,educacion,visitante
+2013,Secundario incompleto,4174734,0.13804048649823464,educacion,visitante
+2013,Sin instrucción / nunca asistió,110746,0.0036618936003427987,educacion,visitante
+2013,Terciario completo,2530681,0.08367872933026127,educacion,visitante
+2013,Terciario incompleto,884172,0.029235762812221597,educacion,visitante
+2013,Universitario completo,3639771,0.12035156241862739,educacion,visitante
+2013,Universitario incompleto,3079118,0.10181318060155958,educacion,visitante
+2014,Menor de 14 años,5856895,0.20249561214186426,educacion,visitante
+2014,Post grado / maestría / doctorado incompleto o completo,481454,0.01664573506066766,educacion,visitante
+2014,Primario completo,2825214,0.09767862294983347,educacion,visitante
+2014,Primario incompleto,878433,0.030370841215458744,educacion,visitante
+2014,Secundario completo,5236534,0.18104732248600752,educacion,visitante
+2014,Secundario incompleto,3872699,0.13389424851327975,educacion,visitante
+2014,Sin instrucción / nunca asistió,26783,9.259923526024541e-4,educacion,visitante
+2014,Terciario completo,2261994,0.07820591963680826,educacion,visitante
+2014,Terciario incompleto,798819,0.027618275962869723,educacion,visitante
+2014,Universitario completo,3749758,0.12964370056042537,educacion,visitante
+2014,Universitario incompleto,2934982,0.10147372912018279,educacion,visitante
+2015,Menor de 14 años,5929504,0.21821473345729556,educacion,visitante
+2015,Post grado / maestría / doctorado incompleto o completo,369144,0.01358505864358299,educacion,visitante
+2015,Primario completo,2625345,0.09661667475195962,educacion,visitante
+2015,Primario incompleto,814580,0.02997777850890122,educacion,visitante
+2015,Secundario completo,4467135,0.16439733801389728,educacion,visitante
+2015,Secundario incompleto,4413962,0.16244049102937297,educacion,visitante
+2015,Sin instrucción / nunca asistió,61762,0.002272935201289937,educacion,visitante
+2015,Terciario completo,2086845,0.07679905864667431,educacion,visitante
+2015,Terciario incompleto,702373,0.025848390857414222,educacion,visitante
+2015,Universitario completo,3192245,0.11747945389789508,educacion,visitante
+2015,Universitario incompleto,2509899,0.0923680869917168,educacion,visitante
+2016,Menor de 14 años,5750935,0.2249542879193175,educacion,visitante
+2016,Post grado / maestría / doctorado incompleto o completo,450380,0.017617120032325566,educacion,visitante
+2016,Primario completo,2635040,0.10307255200048661,educacion,visitante
+2016,Primario incompleto,611638,0.023924907993986288,educacion,visitante
+2016,Secundario completo,4465622,0.17467782493226555,educacion,visitante
+2016,Secundario incompleto,3923027,0.1534536115037392,educacion,visitante
+2016,Sin instrucción / nunca asistió,107266,0.004195830182040575,educacion,visitante
+2016,Terciario completo,1794491,0.07019353289206434,educacion,visitante
+2016,Terciario incompleto,730492,0.028574015823645736,educacion,visitante
+2016,Universitario completo,2988489,0.11689810699472578,educacion,visitante
+2016,Universitario incompleto,2107525,0.08243820972540285,educacion,visitante
+2017,Menor de 14 años,5690775,0.1873513265976151,educacion,visitante
+2017,Post grado / maestría / doctorado incompleto o completo,362618,0.011938086349956552,educacion,visitante
+2017,Primario completo,3118058,0.10265250386956197,educacion,visitante
+2017,Primario incompleto,1042696,0.03432757029368177,educacion,visitante
+2017,Secundario completo,5551033,0.1827507495090105,educacion,visitante
+2017,Secundario incompleto,3975467,0.1308800675294738,educacion,visitante
+2017,Sin instrucción / nunca asistió,233886,0.007699979769470732,educacion,visitante
+2017,Terciario completo,2413655,0.07946219384863515,educacion,visitante
+2017,Terciario incompleto,793799,0.026133399352787672,educacion,visitante
+2017,Universitario completo,4271777,0.14063516619075267,educacion,visitante
+2017,Universitario incompleto,2921121,0.09616895668905413,educacion,visitante
+2018,Menor de 14 años,5525490,0.20076330524834127,educacion,visitante
+2018,Post grado / maestría / doctorado incompleto o completo,309387,0.011241275745837664,educacion,visitante
+2018,Primario completo,2635131,0.09574492204716084,educacion,visitante
+2018,Primario incompleto,836051,0.030377099970533103,educacion,visitante
+2018,Secundario completo,4898490,0.1779818700469908,educacion,visitante
+2018,Secundario incompleto,3454470,0.12551480775121074,educacion,visitante
+2018,Sin instrucción / nunca asistió,193094,0.007015882693412387,educacion,visitante
+2018,Terciario completo,2228385,0.08096620172434027,educacion,visitante
+2018,Terciario incompleto,638601,0.0232029462536166,educacion,visitante
+2018,Universitario completo,4087988,0.14853306814337844,educacion,visitante
+2018,Universitario incompleto,2715323,0.0986586203751779,educacion,visitante
+2019,Menor de 14 años,5507017,0.20581812057952104,educacion,visitante
+2019,Ns./ Nr.,39542,0.0014778345743177153,educacion,visitante
+2019,Post grado / maestría / doctorado incompleto o completo,293214,0.010958519722674486,educacion,visitante
+2019,Primario completo,2361982,0.08827622941470097,educacion,visitante
+2019,Primario incompleto,611032,0.022836584280372822,educacion,visitante
+2019,Secundario completo,4692191,0.17536498126302197,educacion,visitante
+2019,Secundario incompleto,3085726,0.11532528879852072,educacion,visitante
+2019,Sin instrucción / nunca asistió,133963,0.005006705606173792,educacion,visitante
+2019,Terciario completo,2505050,0.09362322341800092,educacion,visitante
+2019,Terciario incompleto,644543,0.0240890175012509,educacion,visitante
+2019,Universitario completo,4530675,0.16932851550242564,educacion,visitante
+2019,Universitario incompleto,2351781,0.08789497933901903,educacion,visitante
+2020,Menor de 14 años,2675208,0.21751888547273018,educacion,visitante
+2020,Post grado / maestría / doctorado incompleto o completo,164805,0.013400154275979025,educacion,visitante
+2020,Primario completo,1120536,0.09110982841411627,educacion,visitante
+2020,Primario incompleto,329062,0.026755751138389065,educacion,visitante
+2020,Secundario completo,2304780,0.18739970008307355,educacion,visitante
+2020,Secundario incompleto,1288819,0.10479277590979043,educacion,visitante
+2020,Sin instrucción / nunca asistió,31977,0.0026000226527288692,educacion,visitante
+2020,Terciario completo,1098114,0.08928671467863494,educacion,visitante
+2020,Terciario incompleto,342949,0.027884891288448354,educacion,visitante
+2020,Universitario completo,1978555,0.16087462299996771,educacion,visitante
+2020,Universitario incompleto,963934,0.0783766530861416,educacion,visitante
+2021,Menor de 14 años,4272595,0.23845972673597332,educacion,visitante
+2021,Post grado / maestría / doctorado incompleto o completo,351656,0.01962643163348397,educacion,visitante
+2021,Primario completo,1063414,0.059350678416093344,educacion,visitante
+2021,Primario incompleto,400479,0.0223513141085209,educacion,visitante
+2021,Secundario completo,2831399,0.15802448671603747,educacion,visitante
+2021,Secundario incompleto,2467039,0.1376890264083043,educacion,visitante
+2021,Sin instrucción / nunca asistió,4804,2.681182108858003e-4,educacion,visitante
+2021,Terciario completo,1460573,0.0815166985070995,educacion,visitante
+2021,Terciario incompleto,438962,0.024499106179611294,educacion,visitante
+2021,Universitario completo,2880093,0.16074216951388784,educacion,visitante
+2021,Universitario incompleto,1746456,0.09747224357010226,educacion,visitante
+2022,Menor de 14 años,6681941,0.21521833145571234,educacion,visitante
+2022,Post grado / maestría / doctorado incompleto o completo,760025,0.02447961039533689,educacion,visitante
+2022,Primario completo,2497769,0.08045052725574847,educacion,visitante
+2022,Primario incompleto,712728,0.02295622348981635,educacion,visitante
+2022,Secundario completo,4670150,0.1504206473310517,educacion,visitante
+2022,Secundario incompleto,4192616,0.1350397766090007,educacion,visitante
+2022,Sin instrucción / nunca asistió,20080,6.467557997939078e-4,educacion,visitante
+2022,Terciario completo,2594930,0.08357998145215165,educacion,visitante
+2022,Terciario incompleto,896749,0.028883347445686606,educacion,visitante
+2022,Universitario completo,4913443,0.1582568604186642,educacion,visitante
+2022,Universitario incompleto,3106836,0.10006793834703712,educacion,visitante
+2023,Menor de 14 años,4737892.39,0.17629112865028398,educacion,visitante
+2023,Ns./ Nr.,105630.46,0.003930379054735913,educacion,visitante
+2023,Post grado / maestría / doctorado incompleto o completo,654452.77,0.024351379891007763,educacion,visitante
+2023,Primario completo,1664848.77,0.06194696808961021,educacion,visitante
+2023,Primario incompleto,1089490.62,0.04053860139565088,educacion,visitante
+2023,Secundario completo,4127861.09,0.1535926168360467,educacion,visitante
+2023,Secundario incompleto,3613174,0.13444174540862908,educacion,visitante
+2023,Sin instrucción / nunca asistió,337315,0.012551074858977652,educacion,visitante
+2023,Terciario completo,2508049.66,0.09332143258584247,educacion,visitante
+2023,Terciario incompleto,970166.82,0.03609871005889539,educacion,visitante
+2023,Universitario completo,3944848.94,0.14678296059558169,educacion,visitante
+2023,Universitario incompleto,3121656.95,0.11615300257473833,educacion,visitante
+2024,Menor de 14 años,2420709,0.17157738691170002,educacion,visitante
+2024,Post grado / maestría / doctorado incompleto o completo,250353,0.017744765498663755,educacion,visitante
+2024,Primario completo,594134,0.04211161242239195,educacion,visitante
+2024,Primario incompleto,460921,0.032669610743268886,educacion,visitante
+2024,Secundario completo,2347157,0.16636409611048047,educacion,visitante
+2024,Secundario incompleto,2492440,0.17666160708874865,educacion,visitante
+2024,Sin instrucción / nunca asistió,632886,0.044858314689208076,educacion,visitante
+2024,Terciario completo,1015538,0.07198029847847635,educacion,visitante
+2024,Terciario incompleto,327752,0.023230727739304274,educacion,visitante
+2024,Universitario completo,1887265,0.1337674198385306,educacion,visitante
+2024,Universitario incompleto,1679400,0.11903416047922696,educacion,visitante
